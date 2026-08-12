@@ -191,36 +191,6 @@ House-Price-Prediction/
 
 ---
 
-## 🚀 Getting Started
-
-### 1. Clone the Repository
-
-```bash
-git clone <your-repository-url>
-```
-
-### 2. Navigate to the Project Directory
-
-```bash
-cd House-Price-Prediction
-```
-
-### 3. Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### 4. Run the Notebook
-
-```bash
-jupyter notebook
-```
-
-Open the project notebook and execute the cells sequentially.
-
----
-
 ## 📚 Key Concepts Learned
 
 This project helped me understand and implement:
